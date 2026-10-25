@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-banner.png" alt="Sarmad Mirza — AI Applications and Software Engineering" width="100%">
+  <img src="githubbanner.png" alt="Sarmad Mirza — AI Applications and Software Engineering" width="100%">
 </p>
 
 ---
