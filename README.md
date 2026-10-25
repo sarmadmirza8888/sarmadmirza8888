@@ -10,7 +10,7 @@
 
 I build practical software projects while exploring AI-powered applications, retrieval-augmented generation (RAG), natural language processing, and backend development.
 
-## 🚀 Featured Projects
+## Featured Projects
 
 - **[CV Analyzer Agent](https://github.com/sarmadmirza8888/cv-analyzer-agent)** — Built an Agent which primarily works on CV data for a Company. Extracts information related to CV and answers using an LLM.
 - **[URL RAG Assistant](https://github.com/sarmadmirza8888/url-rag-assistant)** — Building a URL-based retrieval and question-answering assistant with a focus on safe URL handling.
@@ -18,7 +18,7 @@ I build practical software projects while exploring AI-powered applications, ret
 - **[Cyber Network Attack Simulator](https://github.com/sarmadmirza8888/cyber-network-attack-simulator)** — Exploring data structures, algorithms, and cybersecurity concepts with Java.
 - **[Skill Swap](https://github.com/sarmadmirza8888/skill-swap)** — A react based project for connecting people who want to exchange skills.
 
-## 🛠️ Technologies & Interests
+##  Technologies & Interests
 
 **Programming:** Python · Java · JavaScript · SQL
 
@@ -28,7 +28,7 @@ I build practical software projects while exploring AI-powered applications, ret
 
 **Databases & Tools:** MySQL · MongoDB · Git · GitHub · Linux · Kaggle · PostGreSql ·DataBricks
 
-## 🎯 Currently Focusing On
+##  Currently Focusing On
 
 - Building multi-agent AI applications
 - Learning agent orchestration and tool calling
@@ -38,4 +38,4 @@ I build practical software projects while exploring AI-powered applications, ret
 
 ---
 
-📌 **Explore my repositories:** [github.com/sarmadmirza8888](https://github.com/sarmadmirza8888?tab=repositories)
+ **Explore my repositories:** [github.com/sarmadmirza8888](https://github.com/sarmadmirza8888?tab=repositories)
