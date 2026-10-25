@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="github-banner.png" alt="Sarmad Mirza — AI Applications and Software Engineering" width="100%">
+</p>
+
+---
+
 # Hi, I'm Sarmad Mirza 👋
 
 ### Software Engineering Student | AI Applications | Multi-Agent Systems & RAG
