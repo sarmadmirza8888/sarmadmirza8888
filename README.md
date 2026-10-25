@@ -4,9 +4,6 @@
 
 ---
 
-# Hi, I'm Sarmad Mirza 👋
-
-### Software Engineering Student | AI Applications | Multi-Agent Systems & RAG
 
 I build practical software projects while exploring AI-powered applications, retrieval-augmented generation (RAG), natural language processing, and backend development.
 
